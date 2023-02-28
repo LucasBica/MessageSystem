@@ -1,0 +1,25 @@
+{
+    "name": "com.bica.messagesystem",
+    "version": "1.0.0",
+    "displayName": "Message System",
+    "description": "Unity C# classes to implement the observer pattern",
+    "unity": "2019.3",
+    "hideInEditor": false,
+    "license": "See LICENSE.md file",
+    "changelogUrl": "https://github.com/LucasBica/MessageSystem/blob/main/CHANGELOG.md",
+    "documentationUrl": "https://github.com/LucasBica/MessageSystem/blob/main/Documentation%7E/Documentation.md",
+    "licensesUrl": "https://github.com/LucasBica/MessageSystem/blob/main/LICENSE.md",
+    "keywords": [
+        "MessageSystem",
+        "Message",
+        "System",
+        "Observer",
+        "Pattern",
+        "Channel"
+    ],
+    "author": {
+        "name": "Bica",
+        "email": "lucasgabrielbica@gmail.com",
+        "url": "https://www.linkedin.com/in/lucasbica"
+    }
+}

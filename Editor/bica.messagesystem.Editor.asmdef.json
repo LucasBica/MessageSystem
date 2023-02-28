@@ -1,0 +1,12 @@
+{
+    "name": "Bica.MessageSystem.Editor",
+    "references": [
+        "Bica.MessageSystem"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
